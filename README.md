@@ -1,0 +1,2 @@
+# Dart Null-Safety Issue with `reduce()`
+This repository demonstrates a common error encountered when using the `reduce()` method in Dart with lists that may contain nullable values. The example shows how attempting to use `reduce()` without proper null checks can lead to a runtime exception.  A solution is provided that shows how to handle potential nulls in a safe manner.
